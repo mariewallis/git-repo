@@ -1,0 +1,22 @@
+        <style>
+            h1{
+
+                color: red;
+
+            }
+
+            h3{
+
+                color: blue;
+                background-color: green;
+            }
+
+            p{
+
+                font-family: 'Arial';
+            }
+
+            #Languages_title{ color: purple;}
+
+            .language_item{ color: blue;}
+        </style>
